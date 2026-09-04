@@ -14,6 +14,7 @@ Use this page to copy/paste information and save you from the typo gremlin.
 
 **SKILL.md**
 
+```
 ---
 name: spdx-headers
 description: Use when a source file is missing its SPDX license header, or when asked to add license headers across a codebase.
@@ -29,7 +30,7 @@ model: haiku
 4. Use the license defined in LICENSE at the project root.
 5. If no Open Source licence exists using the following
 
-```
+\```
 Minimal header
 
 # SPDX-FileCopyrightText: 2026 Beachgeek Corp
@@ -43,8 +44,8 @@ Fuller version
 # Proprietary and confidential. Unauthorized copying, distribution, or
 # modification of this file, via any medium, is strictly prohibited
 # without a valid commercial licence from Beachgeek Corp.
+\```
 ```
-
 
 **MIT License**
 
